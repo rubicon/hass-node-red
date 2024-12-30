@@ -1,10 +1,6 @@
 {
-    "name": "Node-RED Companion",
-    "domains": [
-        "binary_sensor",
-        "sensor",
-        "switch"
-    ],
-    "homeassistant": "2021.12.0",
-    "iot_class": "local_push"
+  "filename": "nodered.zip",
+  "homeassistant": "2024.5.0",
+  "name": "Node-RED Companion",
+  "zip_release": true
 }
